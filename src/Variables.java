@@ -15,9 +15,23 @@ public class Variables {
 
         byte level = 2, userExperiance = 5;
 
+        byte year;
+
+        year = 20;
+
+        byte x = 10;
+
+        byte y = 5;
+
+        x = y;
+
+        y++; //to add one or -- to take away one
+
         String test = "Test";
 
-        System.out.println( "User Age" + " " + userAge );
+        System.out.println(y);
+
+        System.out.println( "User Age" + " " + userAge + " " + year);
     }
 
 }
