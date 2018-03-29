@@ -50,6 +50,15 @@ public class StringStuff {
         int[] numbers2 = {12, 1, 5, -2, 16, 14};
         Arrays.sort(numbers2);
 
+        //BinarySearch
+
+        int[] myInt = {21, 23, 34, 45, 56, 78, 99};
+        int foundIndex = Arrays.binarySearch(myInt, 78);    // 78 found at pos 5
+        int foundIndex2 = Arrays.binarySearch(myInt, 39);   // -4 The negative sign means not been found, 4 stand for where the number should be except it adds one so its 4-1=3 39 should be placed in position 3
+
+        //Finding Array Length
+
+        int[] userAgee = {21, 22, 26, 32, 40};
 
 
         System.out.println("String: " + myName + "\n" + "String Length: " + myLength + "\n" + uCase);
@@ -63,6 +72,10 @@ public class StringStuff {
         System.out.println(Arrays.toString(numbers));
 
         System.out.println(Arrays.toString(numbers2));
+
+        System.out.println(foundIndex + "\n" + foundIndex2);
+
+        System.out.println(userAgee.length);
 
     }
 }
