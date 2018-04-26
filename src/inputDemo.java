@@ -5,7 +5,7 @@ public class inputDemo {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter an interger: ");
+        System.out.print("Enter an integer: ");
         int myInt = input.nextInt();
         System.out.printf("You entered %d.%n%n", myInt);
 
@@ -14,8 +14,10 @@ public class inputDemo {
         System.out.printf("You entered %f.%n%n", myDouble);
 
         System.out.print("Enter a string: ");
-        String myString = input.nextLine();
+        String myString = input.next();
         System.out.printf("You entered \"%s\".%n%n", myString);
+
+        //nextByte, nextShort, nextLong, nextFloat and nextBoolean are also used.
 
     }
 }
