@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 
 public class ChapterFive {
 
@@ -34,8 +34,20 @@ public class ChapterFive {
         System.out.println("The sum of 50 and 2 is " + (50 + 2) + ".");
 
         // 5.3.1 Converters
+        System.out.printf("%d", 12); // int = d
+        System.out.println("");
+        System.out.printf("%f", 12.9); // Floating point number = f
+        System.out.printf("%n%d%n%d", 12, 3); //%n = New Line
 
+        // 5.3.2 Flags
+        System.out.printf("%8d", 12); // Width Flag 8 moves 6 spaces in front of 12 total 8 spaces.
+        System.out.printf("%8.2f", 12.4); // Moves 3 spaces in front, total of 8 including the decimal point.
 
+        System.out.printf("%n%,d", 12345); //Thousand Separator flag eg 1,000
+
+        //5.4 Accepting user input
+        //Import Scanner ^^^
+        Scanner reader = new Scanner(System.in);
 
 
     }
