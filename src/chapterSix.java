@@ -20,6 +20,8 @@ public class chapterSix {
         // 6.2 Decision making statements
         // 6.2.1 If Statements
 
+        // SEE ifDemo.java
+
 //        if (condition 1 is met){
 //            do Task A
 //        }
@@ -32,6 +34,8 @@ public class chapterSix {
 //        else{
 //            do task D
 //        }
+
+        // 6.2.2 Ternary operatpr
 
 
     }
