@@ -35,8 +35,27 @@ public class chapterSix {
 //            do task D
 //        }
 
-        // 6.2.2 Ternary operatpr
+        // 6.2.2 Ternary operator
+        // condition ? value to return if true : value to return if false
+        int myNum = 3>2 ? 10 : 5;
+        System.out.println(myNum);
 
+        // 6.2.3 Switch Statement
+        /*switch (variable used for switching)
+        {
+            case firstCase:
+                do A;
+                break;
+
+            case secondCase:
+                do B;
+                break;
+
+            default:
+                do c;
+                break;
+         }
+        */
 
     }
 }
