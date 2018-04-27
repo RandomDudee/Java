@@ -57,5 +57,34 @@ public class chapterSix {
          }
         */
 
+        // 6.3 Looping Statements
+        // 6.3.1 For Statements
+        for (int i = 0; i < 5; i++){
+            System.out.println(i);
+        }
+
+        int[] myNumbers = {10, 20, 30, 40, 50};
+
+        for (int i = 0; i < myNumbers.length; i++){
+            System.out.println(myNumbers[i]);
+        }
+
+        // 6.3.2 Enhanced For Statement
+        /*
+        for (variable declaration : name of array)
+        {
+
+        }
+         */
+        for (int item : myNumbers)
+            System.out.print(item + " ");
+
+        // 6.3.3 While Statements
+        /*
+        while (condition is true)
+        {
+            do A
+        }
+         */
     }
 }
