@@ -137,6 +137,10 @@ public class chapterSix {
             do this regardless of whether the try or catch condition is met.
         }
          */
+        //See errorDemo
+
+        // 6.5.1 Specific Errors
+        // See errorDemo2
 
 
     }
