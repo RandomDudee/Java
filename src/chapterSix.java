@@ -142,6 +142,9 @@ public class chapterSix {
         // 6.5.1 Specific Errors
         // See errorDemo2
 
+        // 6.5.2 Throwing Exceptions
+
+
 
     }
 }
