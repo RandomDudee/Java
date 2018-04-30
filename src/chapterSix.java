@@ -86,5 +86,58 @@ public class chapterSix {
             do A
         }
          */
+        System.out.println(" ");
+        int counter = 5;
+
+        while (counter > 0){
+            System.out.println("Counter = " + counter);
+            counter = counter -1;
+        }
+
+        // 6.3.4 Do-while Statements
+        int counter2 = 100;
+
+        do {
+            System.out.println("Counter2 = " + counter2);
+            counter2++;
+        } while (counter2<0);
+
+        // 6.4 Branching Statements
+        // 6.4.1 Break Statement
+//        for (int i = 0; i <5; i++)
+//        {
+//            System.out.println("i = " + i);
+//            if (i == 2)
+//                break;
+//        }
+
+        // 6.4.2 Continue Statement
+        for (int i = 0; i <5; i++)
+        {
+            System.out.println("i = " + i);
+            if (i == 2)
+                continue;
+            System.out.println("I will not be printed if i=2.");
+        }
+
+        // 6.5 Exception Handling
+        /*
+        Try-catch-finally
+
+        try
+        {
+            do something
+        }
+        catch (type of error)
+        {
+            do something else when an error occurs
+        }
+        finally
+        {
+            do this regardless of whether the try or catch condition is met.
+        }
+         */
+
+
     }
 }
