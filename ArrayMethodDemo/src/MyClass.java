@@ -15,4 +15,16 @@ public class MyClass {
         return a;
     }
 
+    public void passPrimitive(int primitivePara)
+    {
+        primitivePara = 10;
+        System.out.println("Value inside method = " + primitivePara);
+    }
+
+    public void passReference(int[] refPara)
+    {
+        refPara[1] = 5;
+        System.out.println("Value inside the method = " +refPara[1]);
+    }
+
 }

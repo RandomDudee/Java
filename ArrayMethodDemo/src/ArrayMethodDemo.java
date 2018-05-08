@@ -11,5 +11,16 @@ public class ArrayMethodDemo {
         int[] myArray2 = amd.returnArray();
 
         System.out.println(Arrays.toString(myArray2));
+
+        int number = 2;
+        System.out.println("Number before = " + number);
+        amd.passPrimitive(number);
+        System.out.println("Number after = " + number);
+
+        System.out.print("\n");
+
+        System.out.println("myArray[1] before = " + myArray[1]);
+        amd.passReference(myArray);
+        System.out.println("myArray[1] after = " + myArray.toString());
     }
 }
