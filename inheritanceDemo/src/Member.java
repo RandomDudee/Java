@@ -49,6 +49,7 @@ public class Member {
         System.out.println("Member ID: " + memberID);
         System.out.println("Member Since: " + memberSince);
         System.out.println("Annual Fee: " + annualFEE);
+        System.out.println("------------------------------");
     }
 
     public void calculateAnnualFEE()
