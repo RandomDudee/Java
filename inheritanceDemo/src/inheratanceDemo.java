@@ -21,7 +21,7 @@ public class inheratanceDemo {
         clubMembers[2] = new normalMember("Bill", 3,2011);
         clubMembers[3] = new VIPMember("Carol", 4, 2012);
         clubMembers[4] =new VIPMember("Evelyn", 5, 2012);
-        clubMembers[5] = new Member("Yvonne", 6, 2013);
+        clubMembers[5] = new VIPMember("Yvonne", 6, 2013);
 
         for (Member m : clubMembers)
         {

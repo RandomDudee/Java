@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Member {
+abstract public class Member {
 
     public String welcome = "Welcome to ABC Fitness";
     protected double annualFEE;
@@ -52,10 +52,7 @@ public class Member {
         System.out.println("------------------------------");
     }
 
-    public void calculateAnnualFEE()
-    {
-        annualFEE = 0;
-    }
+    abstract public void calculateAnnualFEE();
 
 
 }
