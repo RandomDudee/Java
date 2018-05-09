@@ -11,5 +11,19 @@ public class chapterSeven {
         }
          */
 
+        // 7.5.1 Using Arrays in Method
+        /*
+        public int[] returnArray()
+        {
+        int[] a = new int[3];
+
+        //Some code for updating values in the array
+
+            return a;
+        }
+        */
+        // See ArrayMethodDemo
+
+
     }
 }

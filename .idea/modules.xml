@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayMethodDemo/ArrayMethodDemo.iml" filepath="$PROJECT_DIR$/ArrayMethodDemo/ArrayMethodDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnJava.iml" filepath="$PROJECT_DIR$/LearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOrientedDemo/ObjectOrientedDemo.iml" filepath="$PROJECT_DIR$/ObjectOrientedDemo/ObjectOrientedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeLotto/PracticeLotto.iml" filepath="$PROJECT_DIR$/PracticeLotto/PracticeLotto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticDemo/StaticDemo.iml" filepath="$PROJECT_DIR$/StaticDemo/StaticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
     </modules>
   </component>
 </project>
