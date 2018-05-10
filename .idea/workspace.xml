@@ -4,12 +4,9 @@
     <list default="true" id="2482236d-ee9e-406f-b0e0-ad113a937e42" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeLotto/src/lottoDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeLotto/src/lottoDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceDemo/src/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceDemo/src/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceDemo/src/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceDemo/src/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModifierDemo/src/ClassesInSamePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ModifierDemo/src/ClassesInSamePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModifierDemo/src/ModifierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ModifierDemo/src/ModifierDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterSeven.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,70 +17,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Member.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/Member.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
-                  <folding>
-                    <element signature="e#270#271#0" expanded="true" />
-                    <element signature="e#306#307#0" expanded="true" />
-                    <element signature="e#613#614#0" expanded="true" />
-                    <element signature="e#642#643#0" expanded="true" />
-                    <element signature="e#1445#1446#0" expanded="true" />
-                    <element signature="e#1474#1475#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="normalMember.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/normalMember.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
-                  <folding>
-                    <element signature="e#74#75#0" expanded="true" />
-                    <element signature="e#100#101#0" expanded="true" />
-                    <element signature="e#469#470#0" expanded="true" />
-                    <element signature="e#533#534#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="VIPMember.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/VIPMember.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-                  <folding>
-                    <element signature="e#291#292#0" expanded="true" />
-                    <element signature="e#320#321#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="inheratanceDemo.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ModifierDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModifierDemo/src/ModifierDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassesInSamePackage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ModifierDemo/src/ClassesInSamePackage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,16 +77,18 @@
         <option value="$PROJECT_DIR$/inheritanceDemo/src/discount.java" />
         <option value="$PROJECT_DIR$/inheritanceDemo/src/VIPMember.java" />
         <option value="$PROJECT_DIR$/inheritanceDemo/src/normalMember.java" />
-        <option value="$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.java" />
         <option value="$PROJECT_DIR$/inheritanceDemo/src/Member.java" />
+        <option value="$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.java" />
+        <option value="$PROJECT_DIR$/InterfaceDemo/src/InterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/ModifierDemo/src/ModifierDemo.java" />
+        <option value="$PROJECT_DIR$/ModifierDemo/src/ClassesInSamePackage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-115" />
-    <option name="y" value="-1058" />
-    <option name="width" value="1920" />
-    <option name="height" value="1058" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1162" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,6 +96,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,12 +109,12 @@
             <path>
               <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritanceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ModifierDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritanceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ModifierDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -167,9 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +217,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-115" y="-1058" width="1920" height="1058" extended-state="6" />
+    <frame x="0" y="22" width="1162" height="1028" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -274,10 +230,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31113425" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3104189" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1629393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24107143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -296,27 +252,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrimativeAndReferenceTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StringStuff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -517,9 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#575#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -588,10 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,10 +544,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/discount.java">
+    <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/discount.java" />
+    <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/Member.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="690">
+          <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -627,34 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#1445#1446#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,10 +563,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritanceDemo/src/inheratanceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceDemo/src/InterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifierDemo/src/ModifierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifierDemo/src/ClassesInSamePackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
