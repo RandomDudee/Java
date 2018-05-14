@@ -5,12 +5,12 @@ public class ClassesInAnotherPAckage {
     //just an empty class
 }
 
-class MyClassC extends ModifierDemo{
-    public void printMessages()
-    {
-
-        //This is okay
-        System.out.println(publicNum);
-    }
-
-}
+//class MyClassC extends ModifierDemo{
+//    public void printMessages()
+//    {
+//
+//        //This is okay
+//        System.out.println(publicNum);
+//    }
+//
+//}

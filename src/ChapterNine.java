@@ -51,10 +51,9 @@ public class ChapterNine {
         System.out.println(userAgeList);
 
 
-
-
-
-
+        // LinkedList
+//        myArrayList = {"Hello", "Good", "Morning"};
+//        LinkedList<Type> nameOfLinkedList = new LinkedList<>();
 
     }
 
