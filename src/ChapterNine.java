@@ -63,4 +63,19 @@ public class ChapterNine {
 
     }
 
+    public void methodOne (ArrayList<Integer> m)
+    {
+        //Some implementation code
+    }
+
+    public ArrayList<Integer> methodTwo()
+    {
+        ArrayList<Integer> a = new ArrayList<>();
+        // Some implementation code
+
+        return a;
+    }
+
 }
+
+
