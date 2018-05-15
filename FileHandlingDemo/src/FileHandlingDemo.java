@@ -19,6 +19,13 @@ public class FileHandlingDemo {
             System.out.println(e.getMessage());
         }
 
+//        File f = new File("myFile.rtf");
+//        File nf = new File("myNewFile.rtf");
+//
+//        f.renameTo(nf);
+//
+//        nf.delete();
+
     }
 
 //        String line;
