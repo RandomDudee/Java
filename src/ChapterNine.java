@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.LinkedList;
 
 public class ChapterNine {
     public static void main(String[] args) {
@@ -47,13 +48,18 @@ public class ChapterNine {
 
         Object[] myArray = userAgeList.toArray();
 
-        userAgeList.clear();
-        System.out.println(userAgeList);
+//        userAgeList.clear();
+//        System.out.println(userAgeList);
 
 
         // LinkedList
 //        myArrayList = {"Hello", "Good", "Morning"};
 //        LinkedList<Type> nameOfLinkedList = new LinkedList<>();
+
+        System.out.println(userAgeList.get(0)); //.poll does not work? It is supposed to remove the first element from the List so [40] [53, 51, 53]
+
+        //System.out.println(userAgeList.peak); Works the same as .get(0)
+
 
     }
 
