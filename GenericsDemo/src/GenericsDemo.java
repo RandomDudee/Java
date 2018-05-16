@@ -24,7 +24,7 @@ class MyGenericsClass<T>{
 
 class MyGenericsClass2 <T extends Number>
 {
-    MyGenericsClass2<String> g2 = new MyGenericsClass2();
-    MyGenericsClass2<Integer> g3 = new MyGenericsClass2();
+//    MyGenericsClass2<String> g2 = new MyGenericsClass2();
+//    MyGenericsClass2<Integer> g3 = new MyGenericsClass2();
     MyGenericsClass2<Double> g4 = new MyGenericsClass2();
 }
