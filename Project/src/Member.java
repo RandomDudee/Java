@@ -11,8 +11,31 @@ public class Member {
         memberID = pMemberID;
         name = pName;
         fees = pFees;
+
     }
 
+    public char getMemberType()
+    {
+        return memberType;
+    }
 
+    public int getMemberID()
+    {
+        return memberID;
+    }
 
+    public String getName()
+    {
+        return name;
+    }
+
+    public double getFees()
+    {
+        return fees;
+    }
+
+    @Override
+    public String toString(){
+        return memberType + ", " + memberID + ", " + name + ", " + fees;
+    }
 }
